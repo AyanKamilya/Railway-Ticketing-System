@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables (contains passwords)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
